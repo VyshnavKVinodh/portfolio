@@ -1,0 +1,163 @@
+.page_div{
+    display: flex;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.page_split_left{
+    background-color: rgb(31, 30, 30);
+    padding-left: 30px;
+    flex: 5;
+    color: white;
+}
+
+.page_split_left img{
+    width: 100%;
+    height: 3%;
+    margin-left: 0%;
+}
+
+.Contacts{
+    display: flex;
+    width: 70%;
+}
+
+.ContactDecor{
+    flex: 1;
+    margin-right: 0%;
+    margin-left: 0%;
+
+}
+
+.ContactDetail{
+    padding-left:-20% ;
+
+    flex: 5;
+}
+
+.ContactDetail h4{
+    background-color: rgb(39, 39, 39);
+}
+
+.ContactDecor img{
+    height: 4%;
+    padding-top: 28px;
+    padding-bottom: 30px;
+
+}
+
+
+
+.page_split_right{
+    flex: 10;
+}
+
+.titleName {
+    background-color: rgb(230, 199, 29);
+    padding-left: 180px;
+    padding-top: 20px;
+    margin-top: 10%;
+    height: 20%;
+    font-size: x-large;
+}
+
+.AboutMe{
+    padding-left: 180px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.Project{
+    padding-left: 180px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.Skills{
+    padding-left: 180px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.centre{
+    width: 100%;
+    height: 100%;
+}
+
+.skill1{
+    display: flex;
+    width: 100%;
+}
+
+.skill1a{
+    flex: 1;
+    border: 5px solid rgb(176, 179, 176);
+    border-radius: 1px;
+    margin-left: 0%;
+}
+
+.skill1b{
+    flex: 2;
+    border: 5px solid rgb(68, 68, 68);
+    border-radius: 1px;
+}
+
+.skill2{
+    display: flex;
+    width: 100%;
+}
+
+.skill2a{
+    flex: 3;
+    border: 5px solid rgb(176, 179, 176);
+    border-radius: 1px;
+    width: 30%;
+    margin-left: 0%;
+}
+
+.skill2b{
+    flex: 1;
+    border: 5px solid rgb(68, 68, 68);
+    border-radius: 1px;
+    width: 60%;
+}
+
+.skill3{
+    display: flex;
+    width: 100%;
+}
+
+.skill3a{
+    flex: 3;
+    border: 5px solid rgb(176, 179, 176);
+    border-radius: 1px;
+    width: 30%;
+    margin-left: 0%;
+}
+
+.skill3b{
+    flex: 5;
+    border: 5px solid rgb(68, 68, 68);
+    border-radius: 1px;
+    width: 60%;
+}
+
+.skill4{
+    display: flex;
+    width: 100%;
+}
+
+.skill4a{
+    flex: 1;
+    border: 5px solid rgb(176, 179, 176);
+    border-radius: 1px;
+    width: 30%;
+    margin-left: 0%;
+}
+
+.skill4b{
+    flex: 1;
+    border: 5px solid rgb(68, 68, 68);
+    border-radius: 1px;
+    width: 60%;
+}
